@@ -2,8 +2,6 @@
   {
     "node_id1": "B",
     "node_id2": "D",
-    "node1_exit": "RIGHT",
-    "node2_enter": "LEFT",
     "explicit": true,
     "read_support": 5
   }
