@@ -1,0 +1,34 @@
+[
+  {
+    "node_id1": "A",
+    "node_id2": "D'",
+    "node1_exit": "RIGHT",
+    "node2_enter": "RIGHT",
+    "explicit": true,
+    "read_support": 5
+  },
+  {
+    "node_id1": "D'",
+    "node_id2": "B",
+    "node1_exit": "LEFT",
+    "node2_enter": "LEFT",
+    "explicit": true,
+    "read_support": 5
+  },
+  {
+    "node_id1": "B",
+    "node_id2": "G'",
+    "node1_exit": "RIGHT",
+    "node2_enter": "RIGHT",
+    "explicit": true,
+    "read_support": 5
+  },
+  {
+    "node_id1": "G'",
+    "node_id2": "I",
+    "node1_exit": "LEFT",
+    "node2_enter": "LEFT",
+    "explicit": true,
+    "read_support": 5
+  }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "node_id": "A",
+        "first": "*",
+        "last": 100
+    },
+    {
+        "node_id": "B",
+        "first": 101,
+        "last": 200
+    },
+    {
+        "node_id": "C",
+        "first": 201,
+        "last": 300
+    },
+    {
+        "node_id": "D",
+        "first": 301,
+        "last": "*"
+    }
+]
