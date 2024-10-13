@@ -1,47 +1,47 @@
 [
     {
         "node_id": "A",
-        "first": "*",
+        "first": 0,
         "last": 100
     },
     {
         "node_id": "B",
-        "first": 101,
+        "first": 100,
         "last": 200
     },
     {
         "node_id": "C",
-        "first": 201,
+        "first": 200,
         "last": 300
     },
     {
         "node_id": "D",
-        "first": 301,
+        "first": 300,
         "last": 400
     },
     {
         "node_id": "E",
-        "first": 401,
+        "first": 400,
         "last": 500
     },
     {
         "node_id": "F",
-        "first": 501,
+        "first": 500,
         "last": 600
     },
     {
         "node_id": "G",
-        "first": 601,
+        "first": 600,
         "last": 700
     },
     {
         "node_id": "H",
-        "first": 701,
+        "first": 700,
         "last": 800
     }
     ,{
         "node_id": "I",
-        "first": 801,
-        "last": "*"
+        "first": 800,
+        "last": 900
     }
 ]
